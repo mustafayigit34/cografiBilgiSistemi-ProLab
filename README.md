@@ -14,13 +14,13 @@ Yapılan tüm işlemler cikti.txt isimli bir dosyaya kaydedilir.<br>
 ##İşlemler
 * ### 1) Yeni Şehir, Komşuluk Ekleme
 Yeni bir şehir veya var olan bir şehre yeni bir komşu eklenir.
-* ### Arama Yapma
+* ### 2) Arama Yapma
 Plaka numarası veya şehir ismiyle arama yapılır ve o şehre ait tüm bilgiler çıktı olarak alınır.
-* ### Şehir, Komşuluk Silme
+* ### 3) Şehir, Komşuluk Silme
 Seçilen bir şehri veya o şehrin komşusunu siler.
-* ### Bölge ile Arama Yapma
+* ### 4) Bölge ile Arama Yapma
 Seçilen bölgede bulunan tüm şehirleri listeler.
-* ### Belli Bir Komşu Sayısı Kriterine Uyan Şehirler
+* ### 5) Belli Bir Komşu Sayısı Kriterine Uyan Şehirler
 Girilen sayıdan daha fazla/az komşusu bulunan şehirleri listeler.
-* ### Listele
+* ### 6) Listele
 Bağlı liste içerisindeki tüm şehirleri listeler.
