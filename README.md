@@ -6,8 +6,10 @@ Bu proje kapsamında şehirlerin komşuluk ilişkilerini dikkate alan bir harita
   * Plaka Bilgisi
   * Şehir İsmi
   * Bulunduğu bölgenin kısaltması (örn: Akdeniz : AK)
-  * Şehre ait komşu bilgileri <br>bilgileri okunur ve <br>
+  * Şehre ait komşu bilgileri <br>
+bilgileri okunur ve <br>
 ![menu](https://user-images.githubusercontent.com/65903573/111228421-3d7cc180-85f5-11eb-9d11-a6a62c12b866.png) <br>
-şeklinde verilen menüden istenilen işlem yapılabilir.
-
-
+şeklinde verilen menüden istenilen işlem yapılabilir.<br>
+Yapılan tüm işlemler cikti.txt isimli bir dosyaya kaydedilir.<br>
+##İşlemler
+* ### 1) Yeni sehir, komsuluk ekleme
