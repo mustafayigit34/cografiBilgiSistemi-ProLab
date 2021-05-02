@@ -4,6 +4,7 @@ ProLab 3. Proje
 Bu proje kapsamında şehirlerin komşuluk ilişkilerini dikkate alan bir harita verisi üzerinde bağlı listelerle ilgili temel işlevleri yerine getiren bir uygulama yapılmıştır.
 
 ![sehirler](https://user-images.githubusercontent.com/65903573/111228070-a879c880-85f4-11eb-9210-adc490eeef64.png) <br>
+...<br>
 şeklinde verilen bir metin belgesinden Türkiye'ye ait tüm şehirler için
   * Plaka Bilgisi
   * Şehir İsmi
@@ -11,7 +12,6 @@ Bu proje kapsamında şehirlerin komşuluk ilişkilerini dikkate alan bir harita
   * Şehre ait komşu bilgileri <br>
 bilgileri okunur ve <br>
 ![menu](https://user-images.githubusercontent.com/65903573/111228421-3d7cc180-85f5-11eb-9d11-a6a62c12b866.png) <br>
-...<br>
 şeklinde verilen menüden istenilen işlem yapılabilir.<br>
 Yapılan tüm işlemler cikti.txt isimli bir dosyaya kaydedilir.<br>
 ##İşlemler
